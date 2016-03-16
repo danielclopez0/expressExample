@@ -1,0 +1,14 @@
+{
+  "name": "fido",
+  "version": "1.0.0",
+  "description": "Grab spend data and display summarized content back to users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
